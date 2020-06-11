@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: fb4de969b298da04c802e484f781a1a0
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aoteman
+    100002: aoteman Head
+    100004: aoteman L Calf
+    100006: aoteman L Clavicle
+    100008: aoteman L Finger0
+    100010: aoteman L Finger01
+    100012: aoteman L Finger1
+    100014: aoteman L Finger11
+    100016: aoteman L Foot
+    100018: aoteman L Forearm
+    100020: aoteman L Hand
+    100022: aoteman L Thigh
+    100024: aoteman L Toe0
+    100026: aoteman L UpperArm
+    100028: aoteman Neck
+    100030: aoteman Pelvis
+    100032: aoteman R Calf
+    100034: aoteman R Clavicle
+    100036: aoteman R Finger0
+    100038: aoteman R Finger01
+    100040: aoteman R Finger1
+    100042: aoteman R Finger11
+    100044: aoteman R Foot
+    100046: aoteman R Forearm
+    100048: aoteman R Hand
+    100050: aoteman R Thigh
+    100052: aoteman R Toe0
+    100054: aoteman R UpperArm
+    100056: aoteman Spine
+    100058: aoteman Spine1
+    100060: //RootNode
+    100062: mengbiyousi
+    400000: aoteman
+    400002: aoteman Head
+    400004: aoteman L Calf
+    400006: aoteman L Clavicle
+    400008: aoteman L Finger0
+    400010: aoteman L Finger01
+    400012: aoteman L Finger1
+    400014: aoteman L Finger11
+    400016: aoteman L Foot
+    400018: aoteman L Forearm
+    400020: aoteman L Hand
+    400022: aoteman L Thigh
+    400024: aoteman L Toe0
+    400026: aoteman L UpperArm
+    400028: aoteman Neck
+    400030: aoteman Pelvis
+    400032: aoteman R Calf
+    400034: aoteman R Clavicle
+    400036: aoteman R Finger0
+    400038: aoteman R Finger01
+    400040: aoteman R Finger1
+    400042: aoteman R Finger11
+    400044: aoteman R Foot
+    400046: aoteman R Forearm
+    400048: aoteman R Hand
+    400050: aoteman R Thigh
+    400052: aoteman R Toe0
+    400054: aoteman R UpperArm
+    400056: aoteman Spine
+    400058: aoteman Spine1
+    400060: //RootNode
+    400062: mengbiyousi
+    4300000: mengbiyousi
+    9500000: //RootNode
+    13700000: mengbiyousi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: cdb88ad828aea2b4fafcddeb5a66bec0
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aoteman
+    100002: aoteman Head
+    100004: aoteman L Calf
+    100006: aoteman L Clavicle
+    100008: aoteman L Finger0
+    100010: aoteman L Finger01
+    100012: aoteman L Finger1
+    100014: aoteman L Finger11
+    100016: aoteman L Foot
+    100018: aoteman L Forearm
+    100020: aoteman L Hand
+    100022: aoteman L Thigh
+    100024: aoteman L Toe0
+    100026: aoteman L UpperArm
+    100028: aoteman Neck
+    100030: aoteman Pelvis
+    100032: aoteman R Calf
+    100034: aoteman R Clavicle
+    100036: aoteman R Finger0
+    100038: aoteman R Finger01
+    100040: aoteman R Finger1
+    100042: aoteman R Finger11
+    100044: aoteman R Foot
+    100046: aoteman R Forearm
+    100048: aoteman R Hand
+    100050: aoteman R Thigh
+    100052: aoteman R Toe0
+    100054: aoteman R UpperArm
+    100056: aoteman Spine
+    100058: aoteman Spine1
+    100060: //RootNode
+    100062: aoteman pifeng
+    100064: aoteman pifeng02
+    100066: aoteman pifeng03
+    100068: aoteman pifeng04
+    100070: aoteman pifeng_jian
+    100072: aoteman pifeng_jian02
+    100074: aoteman pifeng_jianOpp
+    100076: aoteman pifeng_jianOpp02
+    100078: aoteman pifengOpp
+    100080: aoteman pifengOpp02
+    100082: aoteman pifengOpp03
+    100084: aoteman pifengOpp04
+    400000: aoteman
+    400002: aoteman Head
+    400004: aoteman L Calf
+    400006: aoteman L Clavicle
+    400008: aoteman L Finger0
+    400010: aoteman L Finger01
+    400012: aoteman L Finger1
+    400014: aoteman L Finger11
+    400016: aoteman L Foot
+    400018: aoteman L Forearm
+    400020: aoteman L Hand
+    400022: aoteman L Thigh
+    400024: aoteman L Toe0
+    400026: aoteman L UpperArm
+    400028: aoteman Neck
+    400030: aoteman Pelvis
+    400032: aoteman R Calf
+    400034: aoteman R Clavicle
+    400036: aoteman R Finger0
+    400038: aoteman R Finger01
+    400040: aoteman R Finger1
+    400042: aoteman R Finger11
+    400044: aoteman R Foot
+    400046: aoteman R Forearm
+    400048: aoteman R Hand
+    400050: aoteman R Thigh
+    400052: aoteman R Toe0
+    400054: aoteman R UpperArm
+    400056: aoteman Spine
+    400058: aoteman Spine1
+    400060: //RootNode
+    400062: aoteman pifeng
+    400064: aoteman pifeng02
+    400066: aoteman pifeng03
+    400068: aoteman pifeng04
+    400070: aoteman pifeng_jian
+    400072: aoteman pifeng_jian02
+    400074: aoteman pifeng_jianOpp
+    400076: aoteman pifeng_jianOpp02
+    400078: aoteman pifengOpp
+    400080: aoteman pifengOpp02
+    400082: aoteman pifengOpp03
+    400084: aoteman pifengOpp04
+    7400000: Slide
+    7400002: ATM_xiahua1_loop
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Slide
+      takeName: ATM_xiahua1
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aoteman
+        weight: 1
+      - path: aoteman/aoteman Pelvis
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman L Thigh
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman L Thigh/aoteman L Calf
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman L Thigh/aoteman L Calf/aoteman
+          L Foot
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman L Thigh/aoteman L Calf/aoteman
+          L Foot/aoteman L Toe0
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman R Thigh
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman R Thigh/aoteman R Calf
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman R Thigh/aoteman R Calf/aoteman
+          R Foot
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman R Thigh/aoteman R Calf/aoteman
+          R Foot/aoteman R Toe0
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          Head
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand/aoteman L
+          Finger0
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand/aoteman L
+          Finger0/aoteman L Finger01
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand/aoteman L
+          Finger1
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand/aoteman L
+          Finger1/aoteman L Finger11
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand/aoteman R
+          Finger0
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand/aoteman R
+          Finger0/aoteman R Finger01
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand/aoteman R
+          Finger1
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand/aoteman R
+          Finger1/aoteman R Finger11
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ATM_xiahua1_loop
+      takeName: ATM_xiahua1
+      firstFrame: 8
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aoteman
+        weight: 1
+      - path: aoteman/aoteman Pelvis
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman L Thigh
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman L Thigh/aoteman L Calf
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman L Thigh/aoteman L Calf/aoteman
+          L Foot
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman L Thigh/aoteman L Calf/aoteman
+          L Foot/aoteman L Toe0
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman R Thigh
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman R Thigh/aoteman R Calf
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman R Thigh/aoteman R Calf/aoteman
+          R Foot
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman R Thigh/aoteman R Calf/aoteman
+          R Foot/aoteman R Toe0
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          Head
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand/aoteman L
+          Finger0
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand/aoteman L
+          Finger0/aoteman L Finger01
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand/aoteman L
+          Finger1
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          L Clavicle/aoteman L UpperArm/aoteman L Forearm/aoteman L Hand/aoteman L
+          Finger1/aoteman L Finger11
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand/aoteman R
+          Finger0
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand/aoteman R
+          Finger0/aoteman R Finger01
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand/aoteman R
+          Finger1
+        weight: 1
+      - path: aoteman/aoteman Pelvis/aoteman Spine/aoteman Spine1/aoteman Neck/aoteman
+          R Clavicle/aoteman R UpperArm/aoteman R Forearm/aoteman R Hand/aoteman R
+          Finger1/aoteman R Finger11
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: fb4de969b298da04c802e484f781a1a0,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
